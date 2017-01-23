@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/zorbaStrange/muster/muster_front_end/muster_custom_fields_react/js/src/cf_components'
+let g:netrw_dirhist_2='/Users/zorbaStrange/muster/muster_front_end/muster_custom_fields_react/js/src/cf_components/create_custom_field_helpers'
+let g:netrw_dirhist_3='/Users/zorbaStrange/muster/muster_front_end/muster_custom_fields_react/js/src/cf_components/create_custom_field_helpers/dynamic_components'
+let g:netrw_dirhist_4='/Users/zorbaStrange/muster/muster_front_end/muster_custom_fields_react/js/src/cf_components/create_custom_field_helpers'
+let g:netrw_dirhist_5='/Users/zorbaStrange/muster/muster_front_end/muster_custom_fields_react/js/src/cf_components'
+let g:netrw_dirhist_6='/Users/zorbaStrange/muster/muster_front_end/muster_custom_fields_react/js/src/cf_components/view_custom_field'
+let g:netrw_dirhist_7='/Users/zorbaStrange/muster/muster_front_end/muster_custom_fields_react/js/src/cf_components/view_custom_field/custom_field_info_page'
